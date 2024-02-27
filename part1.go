@@ -3,10 +3,7 @@ package main
 import (
 	"errors"
 	"fmt"
-	// "strconv"
 )
-
-// import "os"
 
 func askForInput() (string, error) {
 	var input string
